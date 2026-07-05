@@ -5,7 +5,7 @@
     <b>The Ultimate, All-In-One Offline Document & Image Converter for Android</b>
   </p>
   
-  [![Version](https://img.shields.io/badge/Version-1.0.3-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
+  [![Version](https://img.shields.io/badge/Version-1.0.4-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
   [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
   
@@ -49,7 +49,7 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 ## 📥 Installation
 
 1. Download the latest APK by clicking the **Download APK** button above.
-2. Locate the downloaded `Simple-Tools-v1.0.3.apk` file on your Android device.
+2. Locate the downloaded `Simple-Tools-v1.0.4.apk` file on your Android device.
 3. Tap to install (make sure to allow installation from unknown sources if prompted).
 4. Enjoy converting entirely offline!
 
