@@ -12,8 +12,9 @@
   <br/>
   <br/>
   
-  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.0.3.apk">
-    <img src="https://img.shields.io/badge/Download_APK-v1.0.3-00C853?style=for-the-badge&logo=android" alt="Download APK" />
+  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.0.4.apk">
+    <img src="https://img.shields.io/badge/Download-APK%20v1.0.4-green?style=for-the-badge&logo=android" alt="Download APK">
+</a>
   </a>
 </div>
 
@@ -25,9 +26,11 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 
 ### ✨ Core Features
 
-- **🖼️ Image to PDF**: Convert JPG, PNG, and WebP into high-quality PDF documents.
-- **✂️ Split PDF**: Extract exactly the pages you need from large PDFs.
-- **🗜️ Compress PDF**: Drastically reduce the file size of your PDFs for easy sharing, with customizable target sizes. Includes **⚡ Force Compress** mode to guarantee target size even for text-heavy documents!
+- **🖼️ Image to PDF**: Convert- **Merge PDF:** Gabungkan beberapa file PDF menjadi satu dokumen dengan mudah.
+- **Split PDF:** Pisahkan halaman tertentu dari file PDF menjadi dokumen terpisah.
+- **Force Compress (New!):** Mode kompresi paksa untuk mematuhi batas ukuran (misal 1MB) apa pun yang terjadi!
+- **B&W Text Mode (New!):** Fitur khusus jurnal/dokumen untuk ukuran file super kecil tanpa mengorbankan ketajaman teks menggunakan format Lossless/CCITT.
+- **Offline & Private:** Semua proses dilakukan langsung di perangkat Anda tanpa perlu koneksi internet. Data Anda tetap aman.tee target size even for text-heavy documents!
 - **📄 PDF to Word (DOCX)**: Accurately extract text and layout from your PDFs into editable Word documents.
 - **📝 Word to PDF**: Convert your DOCX files into universal PDF format seamlessly.
 
