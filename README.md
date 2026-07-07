@@ -5,15 +5,15 @@
     <b>The Ultimate, All-In-One Offline Document & Image Converter for Android</b>
   </p>
   
-  [![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
+  [![Version](https://img.shields.io/badge/Version-1.1.1-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
   [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
   
   <br/>
   <br/>
   
-  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.1.0.apk">
-    <img src="https://img.shields.io/badge/Download-APK%20v1.1.0-green?style=for-the-badge&logo=android" alt="Download APK">
+  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.1.1.apk">
+    <img src="https://img.shields.io/badge/Download-APK%20v1.1.1-green?style=for-the-badge&logo=android" alt="Download APK">
 </a>
   </a>
 </div>
