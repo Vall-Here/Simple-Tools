@@ -65,4 +65,4 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Vall-Here/Simple-Tools/issues).
+Contributions, issues, and feature requests are welcome! Contact Me (ahmadnoval.muhyiddin@gmail.com).
