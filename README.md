@@ -5,15 +5,15 @@
     <b>The Ultimate, All-In-One Offline Document & Image Converter for Android</b>
   </p>
   
-  [![Version](https://img.shields.io/badge/Version-1.1.1-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
+  [![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)](https://github.com/Vall-Here/Simple-Tools/releases)
   [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
   
   <br/>
   <br/>
   
-  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.1.1.apk">
-    <img src="https://img.shields.io/badge/Download-APK%20v1.1.1-green?style=for-the-badge&logo=android" alt="Download APK">
+  <a href="https://github.com/Vall-Here/Simple-Tools/raw/main/app/Simple-Tools-v1.2.0.apk">
+    <img src="https://img.shields.io/badge/Download-APK%20v1.2.0-green?style=for-the-badge&logo=android" alt="Download APK">
 </a>
   </a>
 </div>
@@ -28,10 +28,11 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 
 - **🖼️ Image to PDF**: Convert- **Merge PDF:** Gabungkan beberapa file PDF menjadi satu dokumen dengan mudah.
 - **Split PDF:** Pisahkan halaman tertentu dari file PDF menjadi dokumen terpisah.
-- **Document Scanner (New!):** Scanner dokumen kelas premium dengan auto-edge detection, perspective warp, B&W filters, dan manajemen multi-page!
+- **Document Scanner:** Scanner dokumen kelas premium dengan auto-edge detection, perspective warp, B&W filters, dan manajemen multi-page!
+- **QR & Barcode Tools (New!):** Scan QR/Barcode dengan cepat menggunakan Google ML Kit tanpa izin kamera, serta generate QR (lengkap dengan logo & warna) dan Barcode secara offline!
 - **Force Compress:** Mode kompresi paksa untuk mematuhi batas ukuran (misal 1MB) apa pun yang terjadi!
-- **B&W Text Mode (New!):** Fitur khusus jurnal/dokumen untuk ukuran file super kecil tanpa mengorbankan ketajaman teks menggunakan format Lossless/CCITT.
-- **Offline & Private:** Semua proses dilakukan langsung di perangkat Anda tanpa perlu koneksi internet. Data Anda tetap aman.tee target size even for text-heavy documents!
+- **B&W Text Mode:** Fitur khusus jurnal/dokumen untuk ukuran file super kecil tanpa mengorbankan ketajaman teks menggunakan format Lossless/CCITT.
+- **Offline & Private:** Semua proses dilakukan langsung di perangkat Anda tanpa perlu koneksi internet. Data Anda tetap aman.
 - **📄 PDF to Word (DOCX)**: Accurately extract text and layout from your PDFs into editable Word documents.
 - **📝 Word to PDF**: Convert your DOCX files into universal PDF format seamlessly.
 
@@ -50,7 +51,7 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 ## 📥 Installation
 
 1. Download the latest APK by clicking the **Download APK** button above.
-2. Locate the downloaded `Simple-Tools-v1.1.0.apk` file on your Android device.
+2. Locate the downloaded `Simple-Tools-v1.2.0.apk` file on your Android device.
 3. Tap to install (make sure to allow installation from unknown sources if prompted).
 4. Enjoy converting entirely offline!
 
