@@ -24,18 +24,24 @@
 
 Converting files shouldn't require an internet connection, a subscription, or waiting in queues. **Simple Tools** does all the heavy lifting directly on your device. Zero servers, zero tracking, 100% privacy!
 
+## 🆕 What's New in v1.2.0
+
+- **QR & Barcode Tools:** Scan QR and Barcodes securely using Google ML Kit (zero camera permissions required).
+- **Custom QR Generator:** Create customized QR codes by picking your own colors and embedding a logo in the center!
+- **Barcode Generator:** Generate standard 1D Barcodes (Code 128) instantly and entirely offline.
+
 ### ✨ Core Features
 
-- **Compress Image:** Kurangi ukuran foto (JPG/PNG) secara offline.
-- **Merge PDF:** Gabungkan beberapa file PDF menjadi satu dokumen dengan mudah.
-- **Image to PDF:** Konversi gambar (JPG/PNG) menjadi satu file PDF.
-- **Split PDF:** Pisahkan halaman tertentu dari file PDF menjadi dokumen terpisah.
-- **Compress PDF:** Kompresi cerdas untuk memperkecil ukuran file PDF.
-- **Word to PDF:** Ubah dokumen DOCX menjadi PDF dengan rapi.
-- **PDF to Word:** Ekstrak teks dari PDF menjadi dokumen Word (DOCX) yang bisa diedit.
-- **Scanner:** Scanner dokumen kelas premium dengan auto-edge detection dan filter B&W.
-- **QR & Barcode:** Scan kode dengan aman, atau generate QR (plus logo & warna) dan Barcode offline.
-- **History:** Akses mudah ke semua file hasil konversi dan proses sebelumnya.
+- **Compress Image:** Reduce photo size (JPG/PNG) offline.
+- **Merge PDF:** Combine multiple PDF files into a single document easily.
+- **Image to PDF:** Convert images (JPG/PNG) into a single PDF file.
+- **Split PDF:** Extract specific pages from a PDF into separate documents.
+- **Compress PDF:** Smart compression to drastically reduce PDF file size.
+- **Word to PDF:** Convert DOCX documents to PDF seamlessly.
+- **PDF to Word:** Extract text from PDFs into editable Word (DOCX) documents.
+- **Scanner:** Premium document scanner with auto-edge detection and B&W filters.
+- **QR & Barcode:** Scan codes securely without camera permissions, or generate custom QR (with logos & colors) and Barcodes offline.
+- **History:** Easy access to all your previously converted files and processes.
 
 ### 🚀 Built for Productivity
 
