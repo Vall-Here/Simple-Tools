@@ -26,15 +26,16 @@ Converting files shouldn't require an internet connection, a subscription, or wa
 
 ### ✨ Core Features
 
-- **🖼️ Image to PDF**: Convert- **Merge PDF:** Gabungkan beberapa file PDF menjadi satu dokumen dengan mudah.
+- **Compress Image:** Kurangi ukuran foto (JPG/PNG) secara offline.
+- **Merge PDF:** Gabungkan beberapa file PDF menjadi satu dokumen dengan mudah.
+- **Image to PDF:** Konversi gambar (JPG/PNG) menjadi satu file PDF.
 - **Split PDF:** Pisahkan halaman tertentu dari file PDF menjadi dokumen terpisah.
-- **Document Scanner:** Scanner dokumen kelas premium dengan auto-edge detection, perspective warp, B&W filters, dan manajemen multi-page!
-- **QR & Barcode Tools (New!):** Scan QR/Barcode dengan cepat menggunakan Google ML Kit tanpa izin kamera, serta generate QR (lengkap dengan logo & warna) dan Barcode secara offline!
-- **Force Compress:** Mode kompresi paksa untuk mematuhi batas ukuran (misal 1MB) apa pun yang terjadi!
-- **B&W Text Mode:** Fitur khusus jurnal/dokumen untuk ukuran file super kecil tanpa mengorbankan ketajaman teks menggunakan format Lossless/CCITT.
-- **Offline & Private:** Semua proses dilakukan langsung di perangkat Anda tanpa perlu koneksi internet. Data Anda tetap aman.
-- **📄 PDF to Word (DOCX)**: Accurately extract text and layout from your PDFs into editable Word documents.
-- **📝 Word to PDF**: Convert your DOCX files into universal PDF format seamlessly.
+- **Compress PDF:** Kompresi cerdas untuk memperkecil ukuran file PDF.
+- **Word to PDF:** Ubah dokumen DOCX menjadi PDF dengan rapi.
+- **PDF to Word:** Ekstrak teks dari PDF menjadi dokumen Word (DOCX) yang bisa diedit.
+- **Scanner:** Scanner dokumen kelas premium dengan auto-edge detection dan filter B&W.
+- **QR & Barcode:** Scan kode dengan aman, atau generate QR (plus logo & warna) dan Barcode offline.
+- **History:** Akses mudah ke semua file hasil konversi dan proses sebelumnya.
 
 ### 🚀 Built for Productivity
 
